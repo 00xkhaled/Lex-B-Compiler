@@ -1,0 +1,1 @@
+To run the compiler just run the ./make file by exciting the command : make in the terminal / CMD
